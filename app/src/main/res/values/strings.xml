@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Buttons Interactions</string>
+    <string name="Android">Android</string>
+    <string name="TopLeft">Top Left</string>
+    <string name="TopRight">Top Right</string>
+    <string name="BottomLeft">Bottom Left</string>
+    <string name="BottomRight">Bottom Right</string>
+    <string name="click_the_buttons">click the buttons</string>
+    <string name="todo">TODO</string>
+    <string name="android_button_clicked">Android Button clicked</string>
+    <string name="the_top_left_button_is_clicked">The Top Left button is clicked</string>
+    <string name="the_top_right_button_is_clicked">The Top Right button is clicked</string>
+    <string name="the_bottom_left_button_is_clicked">The Bottom Left button is clicked</string>
+    <string name="the_bottom_right_button_is_clicked">The Bottom Right button is clicked</string>
+    <string name="you_clicked_the_android_button">Android button clicked </string>
+    <string name="the_Android_button_is_clicked">The Android button is clicked </string>
+</resources>
+
